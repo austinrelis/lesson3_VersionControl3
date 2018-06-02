@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(June 1st, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Austin Relis)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(Create a git repository and link your cloud9 account to github)
+
+## View Project:
+https://austinrelis.github.io/lesson3_VersionControl3/
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Basic git commands)
+2. (Version control software)
+3. (Repositories and SSH keys)
 
